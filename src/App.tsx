@@ -31,6 +31,22 @@ function App() {
       <p>
         Validate email format and password strength
       </p>
+      <p>
+        Validate email format and password strength
+      </p>
+      <p>
+        Validate email format and password strength
+      </p>
+      <p>
+        Validate email format and password strength
+      </p>
+      <p>
+        Validate email format and password strength
+      </p>
+      <p>
+        Validate email format and password strength
+      </p>
+      
     </>
   )
 }
