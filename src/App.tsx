@@ -28,8 +28,13 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
+
       <p>
-        Validate email format and password strength
+        Test Login by Patthama
+
+      <p>
+
       </p>
     </>
   )
